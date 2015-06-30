@@ -12,5 +12,8 @@ ceshi fenzhi tongbu
 woxiang chongxinzuo
 123
 nihao
+
+ni zhi diao wo zai deng ni ma ?
+
 ceshi dev fenzhi
 
